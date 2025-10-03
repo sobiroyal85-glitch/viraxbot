@@ -1,0 +1,16 @@
+pyTelegramBotAPI==4.14.0
+Flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+apscheduler==3.10.1
+pytz==2023.3
+pillow==10.4.0
+matplotlib
+mplfinance
+jdatetime
+hijri-converter
+numpy==1.26.2
+
+
+
