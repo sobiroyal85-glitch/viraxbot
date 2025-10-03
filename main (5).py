@@ -1726,5 +1726,5 @@ if __name__ == "__main__":
     set_commands()
 
     bot.remove_webhook()
-    bot.set_webhook(url="https://virax-production.up.railway.app/" + BOT_TOKEN)
-    app.run(host="0.0.0.0", port=8000)
+    bot.set_webhook(url="https://viraxbot-production.up.railway.app/" + BOT_TOKEN)
+    app.run(host="0.0.0.0", port=8090)
